@@ -1,4 +1,4 @@
-# prathpar.github.io
+# pparanja.github.io
 
 Hello! My name is Prathamesh Paranjape. 
 
